@@ -1,0 +1,39 @@
+baseURL = "https://yourdomain.com/"
+languageCode = "ja-jp"
+title = "株式会社○○地域創生研究所"
+theme = "tella"
+
+[params]
+  description = "地域とともに未来をつくる"
+  author = "株式会社○○地域創生研究所"
+[params.logo]
+  main = "/images/logo.png"
+  alt = "会社ロゴ"
+  size = "h-14"  
+
+[menu]
+  [[menu.main]]
+    name = "事業の概要"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "市場分析"
+    url = "/analysis/"
+    weight = 2
+
+  [[menu.main]]
+    name = "事業運営"
+    url = "/operation/"
+    weight = 3
+
+  [[menu.main]]
+    name = "マーケティング戦略"
+    url = "/marketing/"
+    weight = 4
+
+
+  [[menu.main]]
+    name = "お問い合わせ"
+    url = "/contact/"
+    weight = 5
