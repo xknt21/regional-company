@@ -1,15 +1,30 @@
-baseURL = "https://yourdomain.com/"
+baseURL = "https://totsukawa-region.com/"
 languageCode = "ja-jp"
-title = "株式会社○○地域創生研究所"
+title = "株式会社十津川地域創生研究所"
 theme = "tella"
 
 [params]
+  showBlog = true
+  mainSections = ['blog']
   description = "地域とともに未来をつくる"
-  author = "株式会社○○地域創生研究所"
+  author = "株式会社十津川地域創生研究所"
 [params.logo]
   main = "/images/logo.png"
   alt = "会社ロゴ"
   size = "h-14"  
+
+[[params.heroSlides]]
+  img = "/images/slider1.jpeg"
+
+[[params.heroSlides]]
+  img = "/images/slider2.jpeg"
+
+[[params.heroSlides]]
+  img = "/images/slider3.jpeg"
+
+[[params.heroSlides]]
+  img = "/images/slider4.jpeg"
+
 
 [menu]
   [[menu.main]]
@@ -34,6 +49,17 @@ theme = "tella"
 
 
   [[menu.main]]
+    name = "お知らせ"
+    url = "/blog/"
+    weight = 5
+
+
+  [[menu.main]]
     name = "お問い合わせ"
     url = "/contact/"
-    weight = 5
+    weight = 6
+
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1

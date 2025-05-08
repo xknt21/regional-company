@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>株式会社○○地域創生研究所</title>
+    <title>株式会社十津川地域創生研究所</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 株式会社○○地域創生研究所</description>
+    <description>Recent content on 株式会社十津川地域創生研究所</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ホームページを開設しました！</title>
+      <link>http://localhost:1313/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/first/</guid>
+      <description></description>
+    </item>
     <item>
       <title>マーケティング戦略</title>
       <link>http://localhost:1313/marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/marketing/</guid>
-      <description></description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNS・Webを活用したブランディング（Instagram、公式HP）&lt;/li&gt;&#xA;&lt;li&gt;ふるさと納税返礼品としての展開&lt;/li&gt;&#xA;&lt;li&gt;都市圏への販路開拓（高級スーパー等）&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>事業の概要</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;会社名:&lt;/strong&gt; 株式会社○○地域創生研究所&lt;br&gt;&#xA;&lt;strong&gt;設立:&lt;/strong&gt; 2025年(予定)&lt;br&gt;&#xA;&lt;strong&gt;所在地:&lt;/strong&gt; ○○&lt;br&gt;&#xA;&lt;strong&gt;代表者:&lt;/strong&gt; ○○&lt;br&gt;&#xA;&lt;strong&gt;事業内容:&lt;/strong&gt; 温室メロン等の農産物生産・販売、森林管理、地域資源の活用&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;会社名:&lt;/strong&gt; 株式会社十津川地域創生研究所&lt;br&gt;&#xA;&lt;strong&gt;設立:&lt;/strong&gt; 2025年(予定)&lt;br&gt;&#xA;&lt;strong&gt;所在地:&lt;/strong&gt; ○○&lt;br&gt;&#xA;&lt;strong&gt;代表者:&lt;/strong&gt; ○○&lt;br&gt;&#xA;&lt;strong&gt;事業内容:&lt;/strong&gt; 温室メロン等の農産物生産・販売、森林管理、地域資源の活用&lt;/p&gt;</description>
     </item>
     <item>
       <title>事業運営</title>
       <link>http://localhost:1313/operation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/operation/</guid>
-      <description></description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;温室栽培設備の設置（ビニールハウス、灌水・温度制御システム）&lt;/li&gt;&#xA;&lt;li&gt;地元雇用を活用した森林管理プロジェクト（間伐・遊歩道整備）&lt;/li&gt;&#xA;&lt;li&gt;農作物の直売・ECサイト販売&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>市場分析</title>
       <link>http://localhost:1313/analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/analysis/</guid>
-      <description></description>
+      <description>&lt;p&gt;温室メロン市場は高品質フルーツ需要の高まりにより拡大傾向。&lt;br&gt;&#xA;奈良県南部では競合が少なく、地元ブランド化の可能性あり。&lt;br&gt;&#xA;森林整備分野でも国の脱炭素施策により需要増加。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
