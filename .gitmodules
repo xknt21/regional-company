@@ -3,4 +3,4 @@
 	url = https://github.com/willfaught/paige.git
 [submodule "themes/tella"]
 	path = themes/tella
-	url = https://github.com/opera7133/tella.git
+	url = https://github.com/xknt21/tella
